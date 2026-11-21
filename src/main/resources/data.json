@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Metal Slug",
+    "description": "A classic run-and-gun game with thrilling action.",
+    "platform": "Neo Geo",
+    "released": 1996,
+    "characters": [
+      {
+        "name": "Marco Rossi",
+        "description": "A brave soldier fighting against Rebel forces.",
+        "games": 5
+      },
+      {
+        "name": "Tarma Roving",
+        "description": "A skilled fighter and loyal friend of Marco.",
+        "games": 5
+      }
+    ]
+  },
+  {
+    "name": "Street Fighter II",
+    "description": "The legendary fighting game that defined the genre.",
+    "platform": "Capcom Play System",
+    "released": 1991,
+    "characters": [
+      {
+        "name": "Ryu",
+        "description": "A wandering martial artist seeking strength.",
+        "games": 8
+      },
+      {
+        "name": "Chun-Li",
+        "description": "An Interpol officer known for her powerful kicks.",
+        "games": 7
+      },
+      {
+        "name": "Guile",
+        "description": "A military fighter with a strong sense of justice.",
+        "games": 6
+      }
+    ]
+  },
+  {
+    "name": "Virtua Fighter",
+    "description": "A groundbreaking 3D fighting game.",
+    "platform": "Sega Model Series",
+    "released": 1993,
+    "characters": [
+      {
+        "name": "Akira Yuki",
+        "description": "A master of Bajiquan martial arts.",
+        "games": 9
+      },
+      {
+        "name": "Pai Chan",
+        "description": "A talented actress and martial artist.",
+        "games": 9
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros.",
+    "description": "The iconic platformer that popularized the genre.",
+    "platform": "Nintendo",
+    "released": 1985,
+    "characters": [
+      {
+        "name": "Mario",
+        "description": "The hero plumber of the Mushroom Kingdom.",
+        "games": 20
+      },
+      {
+        "name": "Luigi",
+        "description": "Mario's younger brother and sidekick.",
+        "games": 18
+      }
+    ]
+  },
+  {
+    "name": "The King of Fighters '98",
+    "description": "A classic team-based fighting game.",
+    "platform": "Neo Geo",
+    "released": 1998,
+    "characters": [
+      {
+        "name": "Kyo Kusanagi",
+        "description": "A young fighter with flame abilities.",
+        "games": 10
+      },
+      {
+        "name": "Iori Yagami",
+        "description": "A mysterious fighter with dark powers.",
+        "games": 10
+      },
+      {
+        "name": "Terry Bogard",
+        "description": "A martial artist known as the 'Legendary Wolf'.",
+        "games": 12
+      }
+    ]
+  },
+  {
+    "name": "Mega Man X",
+    "description": "A futuristic platformer with a high-tech hero.",
+    "platform": "Capcom Play System",
+    "released": 1993,
+    "characters": [
+      {
+        "name": "X",
+        "description": "A Maverick Hunter fighting for peace.",
+        "games": 10
+      },
+      {
+        "name": "Zero",
+        "description": "A skilled Maverick Hunter and X's best friend.",
+        "games": 8
+      }
+    ]
+  },
+  {
+    "name": "Daytona USA",
+    "description": "A high-speed arcade racing game.",
+    "platform": "Sega Model Series",
+    "released": 1994,
+    "characters": []
+  },
+  {
+    "name": "The Legend of Zelda",
+    "description": "An epic adventure in the land of Hyrule.",
+    "platform": "Nintendo",
+    "released": 1986,
+    "characters": [
+      {
+        "name": "Link",
+        "description": "The courageous hero destined to save Hyrule.",
+        "games": 19
+      },
+      {
+        "name": "Zelda",
+        "description": "The wise and powerful princess of Hyrule.",
+        "games": 15
+      },
+      {
+        "name": "Ganon",
+        "description": "The dark lord seeking to conquer Hyrule.",
+        "games": 14
+      }
+    ]
+  },
+  {
+    "name": "Metal Gear Solid",
+    "description": "A stealth action game with a gripping storyline.",
+    "platform": "Nintendo",
+    "released": 1998,
+    "characters": [
+      {
+        "name": "Solid Snake",
+        "description": "A legendary soldier on covert missions.",
+        "games": 10
+      }
+    ]
+  },
+  {
+    "name": "Pac-Man",
+    "description": "The iconic maze-chase game.",
+    "platform": "Neo Geo",
+    "released": 1980,
+    "characters": [
+      {
+        "name": "Pac-Man",
+        "description": "The cheerful yellow circle who loves dots.",
+        "games": 30
+      },
+      {
+        "name": "Blinky",
+        "description": "The red ghost chasing Pac-Man.",
+        "games": 30
+      },
+      {
+        "name": "Clyde",
+        "description": "The orange ghost with unpredictable moves.",
+        "games": 25
+      }
+    ]
+  }
+]
